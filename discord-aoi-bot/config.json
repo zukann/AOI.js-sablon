@@ -1,0 +1,15 @@
+{
+    "token": "TOKEN_BURAYA",
+    "prefix": "!",
+    "botName": "Aoi Bot",
+    "ownerId": "KENDI_DISCORD_IDNIZ",
+    "embedColor": "#3498db",
+    "status": {
+        "text": "zukandev ❤",
+        "type": "PLAYING",
+        "status": "online"
+    },
+    "developers": [
+        "KENDI_DISCORD_IDNIZ"
+    ]
+}
