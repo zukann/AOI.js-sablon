@@ -1,0 +1,15 @@
+{
+    "name": "aoi-glitch-bot",
+    "version": "1.0.0",
+    "description": "Glitch için aoi.js bot",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "aoi.js": "^6.5.6"
+    },
+    "engines": {
+        "node": "16.x"
+    }
+}
